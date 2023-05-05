@@ -1,4 +1,4 @@
-# Star Code Register System ⭐
+# Star Code Register ⭐
 Made in Java, this system is a register program that stores user data in a dynamically resizable <code>ArrayList&lt;&gt;</code>.<br>
 The program has the following options:
 - Register an user
