@@ -4,8 +4,8 @@ The program has the following options:
 - Register an user
 - Search for an user
 - Show all the users
-<hr>
-The program uses the following libraries:<br><br>
+#
+The program uses the following libraries:<br>
 
 ````
 java.awt.Dimension;
@@ -22,8 +22,8 @@ java.text.Normalizer;
 java.util.regex.Pattern;
 ````
 
-<hr>
-It also has verification methods to ensure that the user enters the information correctly. It works like this example:<br><br>
+#
+It also has verification methods to ensure that the user enters the information correctly. It works like this example:<br>
 
 ````java
 javax.swing.JOptionPane;
@@ -52,3 +52,4 @@ private String checkForString(String current) {
   return "";
 }
 ````
+###### ~ 2023
